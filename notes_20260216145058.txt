@@ -1,0 +1,46 @@
+02.16 2:38 PM
+<!DOCTYPE html>
+<html lang="gu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kutchi Designs by Ajay Bharwad</title>
+    <style>
+        /* CSS - ડિઝાઇન માટે */
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; padding-bottom: 60px; }
+        header { background-color: #8e44ad; color: white; padding: 20px; text-align: center; }
+        .container { padding: 20px; display: flex; flex-wrap: wrap; justify-content: center; }
+        .product-card { background: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin: 15px; width: 300px; overflow: hidden; text-align: center; border: 2px solid #eee; }
+        .product-card img { width: 100%; height: 250px; object-fit: cover; background-color: #ddd; }
+        .product-info { padding: 15px; }
+        .price { color: #e74c3c; font-size: 20px; font-weight: bold; margin: 10px 0; }
+        .btn-whatsapp { background-color: #25D366; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px; font-weight: bold; }
+        footer { background: #333; color: white; text-align: center; padding: 15px; position: fixed; bottom: 0; width: 100%; font-size: 14px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Kutchi Heritage - Ajay Bharwad</h1>
+    <p>ટ્રેડિશનલ કચ્છી ડિઝાઇનના સુંદર વેસ્ટ</p>
+</header>
+
+<div class="container">
+    <div class="product-card">
+        <img src="product1.jpg" alt="Kutchi Vest Design">
+        <div class="product-info">
+            <h3>કચ્છી વર્ક વ્હાઇટ વેસ્ટ</h3>
+            <p>સુંદર હાથે કરેલું ભરતકામ અને કચ્છી ડિઝાઇન</p>
+            <div class="price">₹ 999</div>
+            <a href="https://wa.me/919724985346?text=મને આ કચ્છી વેસ્ટ ડિઝાઇનમાં રસ છે" class="btn-whatsapp">WhatsApp પર ઓર્ડર કરો</a>
+        </div>
+    </div>
+</div>
+
+<footer>
+    &copy; 2026 Ajay Bharwad Edits | Dhandhuka, Ahmedabad
+</footer>
+
+</body>
+</html>
+
